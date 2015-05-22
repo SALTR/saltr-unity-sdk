@@ -38,12 +38,14 @@ The entry point is the `SaltrUnity` class. You should create an empty game objec
 
 ##Introduction
 
-Easily integrate SALTR Unity SDK into your games or apps to get real-time control over settings, user experience tweaking, customization and level design. With SALTR you and your team will have availability to update any app settings, prices and user experiences based on those settings - all in real-time. Target you most important users by delivering specific configuration only to them - again in real-time. Measure your impact. No updates needed on App Store, Google Play or etc.. 
-With SALTR you will have:
-* Real-time user segmenting with user filtering based on standard and custom criteria. Define game feature and level modifications for segement - again in real-time.
-* Real-time experiments creation with deep user filtering and advanced level of traffic control. Any feature, setting or level integrated with SALTR can be modified in any ways for partitions you created for your A/B test.
-* Design levels in real-time. Connect team memeber devices and allow them to tweak levels, features and setting simultainously without interfeering with each other. 
-* See real-time analytics for all users, segements and experiments you created. Take action right now if needed.
+Easily integrate SALTR Unity SDK into your games or apps to get real-time control over settings, user experience tweaking, customization and level design. 
+With SALTR you and your team will have availability to:
+* Update any app settings, prices and values for your users. 
+* Target you most important users by delivering specific configuration only to them - again in real-time. Use segmenting with user filtering based on advances set of standard and custom criteria.
+* Create experiments testing any feature and level modifications against each other. Manage intensity and type of user traffic flowing into your experiments partitions.
+* Design levels in real-time. Connect team memeber devices and allow them to tweak levels, features and setting simultainously without interfeering with each other. Continue balancing your levels in real-time even after game is released, without ned to bother your dev team to deliver next app update.
+* Measure your impact on each segment, experiment partition, and be able to take action right-away. 
+* No updates needed on App Store, Google Play or etc.. 
 * Much more...
 
 This SDK performs all necessary and possible action with SALTR REST API to connect, update, set 
