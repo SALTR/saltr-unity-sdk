@@ -5,7 +5,7 @@
 * Android SDK Version: 1.1.1
 
 ##Getting Started with SALTR Unity
-Please checkout [SALTR Unity SDK Setup](https://saltr.com/setup#/unity) doc.
+Please read [SALTR Unity SDK Setup](https://saltr.com/setup#/unity) doc.
 
 ###SALTR Package Contains:
 * `Saltr.UnitySdk` - main namespace of library;
@@ -27,7 +27,7 @@ SALTR Unity SDK is a standard .unitypackage that can be imported into your proje
 
 To clone Git repository via command line:
 ```
-$ git clone https://github.com/SALTR/SaltrUnitySdk.git
+$ git clone https://github.com/SALTR/saltr-unity-sdk.git
 ```
 
 The entry point is the `SaltrUnity` class. You should create an empty game object and attach SaltrUnity as a script component.
