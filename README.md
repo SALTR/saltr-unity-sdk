@@ -30,7 +30,7 @@ To clone Git repository via command line:
 $ git clone https://github.com/SALTR/SaltrUnitySdk.git
 ```
 
-The entry point is the SaltrUnity class. You should create an empty game object and attach SaltrUnity as a script component.
+The entry point is the `SaltrUnity` class. You should create an empty game object and attach SaltrUnity as a script component.
 
 ##Introduction
 
