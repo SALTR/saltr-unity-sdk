@@ -8,21 +8,16 @@
 Please checkout [SALTR Unity SDK Setup](https://saltr.com/setup#/unity) doc.
 
 ###SALTR Package Contains:
-* Plugins
-  * `SALTR.cs`
-  * Android
-    * `saltr.jar`
+* `Saltr.UnitySdk` - main namespace of library;
+* `Saltr.UnitySdk.Domain` - all domain classes;
+   * `Saltr.UnitySdk.Domain.InternalModel` - internal model classes;
+   * `Saltr.UnitySdk.Domain.Model` - all user accessible model classes;
+   * `Saltr.UnitySdk.Domain.Model.Canvas` - model classes for 2D canvas based games;
+   * `Saltr.UnitySdk.Domain.Model.Matching` - model classes for board based games;
+* `Saltr.UnitySdk.Network` - network classes to communicate with SALTR REST API;
+* `Saltr.UnitySdk.Repository` - repository classes to load and save data into temp or local storage;
+* `Saltr.UnitySdk.Utils` - utilities and extensions;
 
-- Saltr.UnitySdk - main namespace of library;
-- Saltr.UnitySdk.Domain - all domain classes;
-- Saltr.UnitySdk.Domain.InternalModel - internal model classes;
-- Saltr.UnitySdk.Domain.Model - all user accessible model classes;
-- Saltr.UnitySdk.Domain.Model.Canvas - model classes for canvas based games;
-- Saltr.UnitySdk.Domain.Model.Matching - model classes for board based games;
-- Saltr.UnitySdk.Network - network classes to communicate with SALTR REST API;
-- Saltr.UnitySdk.Repository - repository classes to load and save data into temp or local storage;
-- Saltr.UnitySdk.Utils - local data repository classes (implementation widely varies through platforms);
-- Saltr.UnitySdk - status classes representing warnings and error statuses used within library code;
 
 ##To Download
 The SALTR Unity SDK Package is [Available Here for download](https://github.com/SALTR/saltr-unity-sdk/raw/master/Packages/Saltr.unitypackage)
