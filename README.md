@@ -46,7 +46,7 @@ With SALTR you and your team will have availability to:
 * Design levels in real-time. Connect team memeber devices and allow them to tweak levels, features and setting simultainously without interfeering with each other. Continue balancing your levels in real-time even after game is released, without ned to bother your dev team to deliver next app update.
 * Measure your impact on each segment, experiment partition, and be able to take action right-away. 
 * No updates needed on App Store, Google Play or etc.. 
-* Much more...
+* Do all this in real-time, and much more...
 
 This SDK performs all necessary and possible action with SALTR REST API to connect, update, set 
 and download data related to game's features or levels.
