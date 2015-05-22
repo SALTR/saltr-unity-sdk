@@ -38,8 +38,8 @@ The entry point is the `SaltrUnity` class. You should create an empty game objec
 
 ##Introduction
 
-Integrate SALTR Unity SDK into your games or apps to get real-time control over settings, user experience tweaking, customization and level design. With SALTR you and your team will have availability to update any app settings, or deliver specific set of setting to specific segment of users - all in real-time. No updates needed on App Store, Google Play or etc.. 
-Features:
+Easily integrate SALTR Unity SDK into your games or apps to get real-time control over settings, user experience tweaking, customization and level design. With SALTR you and your team will have availability to update any app settings, prices and user experiences based on those settings - all in real-time. Target you most important users by delivering specific configuration only to them - again in real-time. Measure your impact. No updates needed on App Store, Google Play or etc.. 
+With SALTR you will have:
 * Real-time user segmenting with user filtering based on standard and custom criteria. Define game feature and level modifications for segement - again in real-time.
 * Real-time experiments creation with deep user filtering and advanced level of traffic control. Any feature, setting or level integrated with SALTR can be modified in any ways for partitions you created for your A/B test.
 * Design levels in real-time. Connect team memeber devices and allow them to tweak levels, features and setting simultainously without interfeering with each other. 
