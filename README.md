@@ -1,5 +1,5 @@
-SALTR Unity SDK
-===============
+#SALTR Unity SDK
+
 
 This is the README file of the SALTR Unity SDK.
 
