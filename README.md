@@ -10,15 +10,6 @@ To download the latest ZIP:
 <a href="https://github.com/SALTR/saltr-unity-sdk/archive/master.zip">https://github.com/SALTR/saltr-unity-sdk/archive/master.zip</a>
 
 
-
-CONTENTS
-========
-1. INTRODUCTION
-2. USAGE
-3. DIRECTORY STRUCTURE
-
-----
-
 1. INTRODUCTION
 ===============
 
