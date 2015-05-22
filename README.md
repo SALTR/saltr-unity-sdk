@@ -25,7 +25,7 @@ Please checkout [SALTR Unity SDK Setup](https://saltr.com/setup#/unity) doc.
 - Saltr.UnitySdk - status classes representing warnings and error statuses used within library code;
 
 ##To Download
-The SALTR Unity SDK Package is Available [Here](https://github.com/SALTR/saltr-unity-sdk/raw/master/Packages/Saltr.unitypackage) for download
+The SALTR Unity SDK Package is [Available Here for download](https://github.com/SALTR/saltr-unity-sdk/raw/master/Packages/Saltr.unitypackage)
 
 ##To Install
 SALTR Unity SDK is a standard .unitypackage that can be imported into your project.
