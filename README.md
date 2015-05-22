@@ -20,7 +20,7 @@ Please checkout [SALTR Unity SDK Setup](https://saltr.com/setup#/unity) doc.
 
 
 ##To Download
-The SALTR Unity SDK Package is [Available Here for download](https://github.com/SALTR/saltr-unity-sdk/raw/master/Packages/Saltr.unitypackage)
+The SALTR Unity SDK Package is [Available Here for download](https://github.com/SALTR/saltr-unity-sdk/raw/master/Packages/Saltr.unitypackage).
 
 ##To Install
 SALTR Unity SDK is a standard .unitypackage that can be imported into your project.
