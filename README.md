@@ -2,7 +2,7 @@
 * Modified: May 22th, 2015
 * Unity Plug-in Version: 1.4.0
 
-Other supported platforms:
+Other Supported Platforms:
 * [iOS SDK Version: 1.3.3](https://github.com/SALTR/saltr-ios-sdk)
 * [Android SDK Version: 1.1.1](https://github.com/SALTR/saltr-android-sdk)
 * [AS3 SDK Version: 1.3.6](https://github.com/SALTR/saltr-as3-sdk)
