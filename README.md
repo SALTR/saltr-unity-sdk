@@ -1,5 +1,8 @@
 #SALTR Unity SDK
-
+* Modified: May 21th, 2015
+* Unity Plug-in Version: 1.4.0
+* iOS SDK Version: 1.3.3
+* Android SDK Version: 1.1.1
 
 This is the README file of the SALTR Unity SDK.
 
