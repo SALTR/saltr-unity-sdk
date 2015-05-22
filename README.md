@@ -13,8 +13,7 @@ To download the latest ZIP:
 <a href="https://github.com/SALTR/saltr-unity-sdk/archive/master.zip">https://github.com/SALTR/saltr-unity-sdk/archive/master.zip</a>
 
 
-1. INTRODUCTION
-===============
+##1. INTRODUCTION
 
 SALTR Unity SDK is a library of classes which help to develop mobile 
 games that are to be integrated with SALTR platform.
@@ -31,7 +30,7 @@ which loads the app data objects containing features, experiments and level head
 This and other actions will be described in the sections below.
 
 
-2. USAGE
+##USAGE
 ========
 
 To use the SDK you need to download/clone SDK repository and then import files to your
@@ -44,7 +43,7 @@ $ git clone https://github.com/SALTR/SaltrUnitySdk.git
 
 The entry point is the SaltrUnity clas. You should create an empty game object and attach SaltrUnity as a script component.
 
-3. DIRECTORY STRUCTURE
+##DIRECTORY STRUCTURE
 ======================
 
 The SDK has the following directory structure:
