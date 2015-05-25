@@ -36,6 +36,9 @@ $ git clone https://github.com/SALTR/saltr-unity-sdk.git
 
 The entry point is the `SaltrUnity` class. You should create an empty game object and attach SaltrUnity as a script component.
 
+##API Reference
+Here is the [API Reference for the SDK](http://plexonic.github.io/api-reference-unity/).
+
 ##Introduction
 
 Easily integrate SALTR Unity SDK into your games or apps to get real-time control over settings, user experience tweaking, customization and level design. 
