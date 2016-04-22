@@ -1,6 +1,6 @@
 #SALTR Unity SDK
-* Modified: May 22th, 2015
-* Unity Plug-in Version: 1.4.0
+* Modified: Apr 21st, 2016
+* Unity Plug-in Version: 2.0.0
 
 Other Supported Platforms:
 * [iOS SDK Version: 1.3.3](https://github.com/SALTR/saltr-ios-sdk)
