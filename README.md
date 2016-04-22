@@ -43,13 +43,13 @@ With SALTR you and your team will have availability to:
 * No updates needed on App Store, Google Play or etc.. 
 * Do all this in real-time, and much more...
 
-This SDK performs all necessary and possible action with SALTR REST API to connect, update, set 
+This SDK performs all necessary and possible action with SALTR API to connect, update, set 
 and download data related to game's features or levels.
 
-All data received from SALTR REST API is parsed and represented through set of instances of classes, 
+All data received from SALTR  API is parsed and represented through set of instances of classes, 
 each carrying specific objects and their properties.
 
-Basically SDK, as the REST API, has few simple actions. The most important one is connecting `GetAppData`, 
+Basically SDK, as the API, has few simple actions. The most important one is connecting `GetAppData`, 
 which loads the app data objects containing features, experiments and level headers.
 
 
