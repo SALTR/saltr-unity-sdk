@@ -23,14 +23,15 @@ $ git clone https://github.com/SALTR/saltr-unity-sdk.git
 ```
 
 The entry point is the `SaltrUnity` class. To instantiate it drag & drop SALTR prefab into your main scene.
-You will need to configure SALTR SDK settings via SALTR Config Tool, which is included in SDK package.
+You will need to configure SALTR SDK settings via SALTR Config Tool, which is included in SDK package. 
+For more details please visit [SALTR Unity SDK Setup](https://saltr.com/setup#/unity).
 
 ##API Reference
 Here is the [API Reference for the SDK](http://plexonic.github.io/api-reference-unity/).
 
 ##Introduction
 
-Easily integrate SALTR Unity SDK into your games or apps to get real-time control over settings, user experience tweaking, customization and level design. 
+Easily integrate SALTR Unity SDK into your games or apps to get real-time control over settings, user experience tweaking, customization and level design.
 With SALTR you and your team will have availability to:
 * Update any app settings, prices and values for your users. 
 * Target you most important users by delivering specific configurations only to them. Use segmentation with user filtering based on advances set of standard and custom criteria.
