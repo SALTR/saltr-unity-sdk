@@ -22,7 +22,8 @@ To clone Git repository via command line:
 $ git clone https://github.com/SALTR/saltr-unity-sdk.git
 ```
 
-The entry point is the `SaltrUnity` class. You should create an empty game object and attach SaltrUnity as a script component.
+The entry point is the `SaltrUnity` class. To instantiate it drag & drop SALTR prefab into your main scene.
+You will need to configure SALTR SDK settings via SALTR Config Tool included in SDK package.
 
 ##API Reference
 Here is the [API Reference for the SDK](http://plexonic.github.io/api-reference-unity/).
