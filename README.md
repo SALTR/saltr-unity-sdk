@@ -11,18 +11,6 @@ Other Supported Platforms:
 ##Getting Started with SALTR Unity
 Please read [SALTR Unity SDK Setup](https://saltr.com/setup#/unity) doc.
 
-###SALTR Package Contains:
-* `Saltr.UnitySdk` - main namespace of library;
-* `Saltr.UnitySdk.Domain` - all domain classes;
-   * `Saltr.UnitySdk.Domain.InternalModel` - internal model classes;
-   * `Saltr.UnitySdk.Domain.Model` - all user accessible model classes;
-   * `Saltr.UnitySdk.Domain.Model.Canvas` - model classes for 2D canvas based games;
-   * `Saltr.UnitySdk.Domain.Model.Matching` - model classes for board based games;
-* `Saltr.UnitySdk.Network` - network classes to communicate with SALTR REST API;
-* `Saltr.UnitySdk.Repository` - repository classes to load and save data into temp or local storage;
-* `Saltr.UnitySdk.Utils` - utilities and extensions;
-
-
 ##To Download
 The SALTR Unity SDK Package is [available here for download](https://github.com/SALTR/saltr-unity-sdk/raw/master/Packages/Saltr.unitypackage).
 
